@@ -1,0 +1,22 @@
+.hero {
+    background-color: antiquewhite;
+    color:brown;
+    padding: 30px;
+    max-width: 400px;
+    margin: auto;
+}
+
+main {
+    padding: 10px;
+}
+
+img {
+    width: 100%;
+}
+
+.odsazeni {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
